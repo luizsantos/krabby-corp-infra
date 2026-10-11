@@ -41,6 +41,7 @@ O ambiente do servidor foi atualizado e opera sob a seguinte pilha de tecnologia
 > O **código-fonte completo (versão final)**, os *schemas* SQL atualizados e os scripts de implantação contínua (CI/CD) serão publicados em breve assim que a validação dos módulos de autenticação for concluída.
 
 ## Estrutura de arquivos
+```text
 krabby-enterprise-repo/
 ├── README.md
 ├── schema.sql
@@ -50,6 +51,7 @@ krabby-enterprise-repo/
 │       └── style.css
 └── config/
     └── database.php.example
+```
 
 ## 📬 Contato & Suporte Técnico
 
